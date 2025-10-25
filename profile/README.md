@@ -3,6 +3,5 @@ As the successor of NMuser mailing list, the NMusers group is the official place
 
 - [NONMEM and PMx discussions](https://github.com/orgs/nmusers/discussions).
 - [Bug report and feature request](https://github.com/nmusers/nm-issues)
-- For community-contributed model examples, please use .
 
 If you would like to contribute to the open-source components of the NONMEM ecosystem, please contact maintainers.
