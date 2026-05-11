@@ -3,5 +3,6 @@ As the companion of NMuser mailing list, the NMusers group is the official place
 
 - [NONMEM and PMx discussions](https://github.com/orgs/nmusers/discussions).
 - [Bug report and feature request](https://github.com/nmusers/nm-issues/issues)
+- [Online documentation](https://github.com/nmusers/docs)
 
 If you would like to contribute to the open-source components of the NONMEM ecosystem, please contact maintainers.
